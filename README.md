@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hitoribocchii (Delfi), second-year Computer Science student from Argentina.
+- 👋 Hi, I’m @hitoribocchii (Delfi), third-year Computer Science student from Argentina.
 - 👀 I’m interested in Data Science, Machine Learning and App Development.
 - 🌱 I’m currently learning Data Structures using Java.
 - 💞️ I’m looking to collaborate on small projects to keep working on my team abilities.
