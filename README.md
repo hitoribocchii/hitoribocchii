@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hitoribocchii (Delfi), third-year Computer Science student from Argentina.
+- 👋 I’m @hitoribocchii (Delfi), third-year Computer Science student from Argentina.
 
 <!---
 hitoribocchii/hitoribocchii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
