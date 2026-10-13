@@ -1,14 +1,14 @@
-About me
-👋 I’m @hitoribocchii (Delfi), third-year Computer Engineering student from Argentina.
-💼 Currently interning at IBM Argentina in Global Sales. 
-☁️ I'm keen on IaC, Cloud and DevOps.
-⭐ Anime and manga lover.
+<h1>About me</h1>
+👋 I’m @hitoribocchii (Delfi), third-year Computer Engineering student from Argentina.<br> 
+💼 Currently interning at IBM Argentina in Global Sales.<br>
+☁️ I'm keen on IaC, Cloud and DevOps.<br>
+⭐ Anime and manga lover.<br>
 
-Skills
-⚙️ Python, Java, Node.js, SQL
-🛠️ GitHub, Insomnia, VSCode
-💻 Linux, Windows
+<h1>Skills</h1>
+⚙️ Python, Java, Node.js, SQL<br>
+🛠️ GitHub, Insomnia, VSCode<br>
+💻 Linux, Windows<br>
 
-Languages
-🇪🇸 Spanish - Native
-🇬🇧 English - Advanced/C1
+<h1>Languages</h1>
+🇪🇸 Spanish - Native<br>
+🇬🇧 English - Advanced/C1<br>
