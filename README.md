@@ -1,6 +1,14 @@
-- 👋 I’m @hitoribocchii (Delfi), third-year Computer Science student from Argentina.
+About me
+👋 I’m @hitoribocchii (Delfi), third-year Computer Engineering student from Argentina.
+💼 Currently interning at IBM Argentina in Global Sales. 
+☁️ I'm keen on IaC, Cloud and DevOps.
+⭐ Anime and manga lover.
 
-<!---
-hitoribocchii/hitoribocchii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills
+⚙️ Python, Java, Node.js, SQL
+🛠️ GitHub, Insomnia, VSCode
+💻 Linux, Windows
+
+Languages
+🇪🇸 Spanish - Native
+🇬🇧 English - Advanced/C1
